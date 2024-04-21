@@ -1,0 +1,6 @@
+config:
+  app:containerPort: "80"
+  app:cpu: "512"
+  app:memory: "128"
+  aws:profile: default
+  aws:region: il-central-1
